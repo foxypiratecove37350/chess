@@ -26,7 +26,7 @@ pip install -r requirements.txt
 ```
 
 And finally, run the program:
-```
+```sh
 python main.py <--ui|--cli>
 ```
 
